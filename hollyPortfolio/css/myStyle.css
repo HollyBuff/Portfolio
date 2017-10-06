@@ -1,0 +1,71 @@
+#mainNav {
+    background: #262228} 
+
+header.masthead { 
+    color: #262228;
+    background: #FFFFFF} /*#8EAEBD #99D3DF #C7C8D6 #66B9BF*/
+
+hr.star-light:after {
+    color: #8EAEBD;
+    background-color: #FFFFFF; }
+hr.star-light {
+    border-color: #8EAEBD; }
+hr.star-primary:after {
+    color: #2C3E50;
+    background-color: #8EAEBD; }
+#contact hr.star-primary:after {
+    color: #2C3E50;
+    background-color: #FFFFFF; }
+#resume hr.star-primary:after {
+    color: #2C3E50;
+    background-color: #8EAEBD; }
+#portfolioModal1 hr.star-primary:after {
+    color: #2C3E50;
+    background-color: #FFFFFF; }
+#portfolioModal2 hr.star-primary:after {
+    color: #2C3E50;
+    background-color: #FFFFFF; }
+#portfolioModal3 hr.star-primary:after {
+    color: #2C3E50;
+    background-color: #FFFFFF; }
+#portfolioModal4 hr.star-primary:after {
+    color: #2C3E50;
+    background-color: #FFFFFF; }
+#portfolioModal5 hr.star-primary:after {
+    color: #2C3E50;
+    background-color: #FFFFFF; }
+#portfolioModal6 hr.star-primary:after {
+    color: #2C3E50;
+    background-color: #FFFFFF; }
+section.success {
+    color: white;
+    background: #8EAEBD; }
+
+footer .footer-above{
+    background: #8EAEBD}
+footer .footer-below{
+    background: #262228}
+#sendMessageButton{
+    background: #8EAEBD;
+    border-color: #8EAEBD;}
+#portfolio .portfolio-item .portfolio-link .caption {
+    background: #2C3E50;}
+#portfolio .portfolio-item .portfolio-link .caption .caption-content {
+    color: #FFFFFF;}
+.btn-success{
+    background: #8EAEBD;
+    border-color: #8EAEBD;}
+#mainNav .navbar-toggler:focus, #mainNav .navbar-toggler:hover {
+    color: white;
+    border-color: #8EAEBD;
+    background-color: #8EAEBD; }
+#mainNav .navbar-nav li.nav-item a.nav-link:hover {
+    color: #8EAEBD;
+    outline: none; }
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active {
+    color: white;
+    border-radius: 3px;
+    background: #8EAEBD; }
+#mainNav .navbar-nav > li.nav-item > a.nav-link.active:active, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:focus, #mainNav .navbar-nav > li.nav-item > a.nav-link.active:hover {
+    color: white;
+    background: #8EAEBD; }
