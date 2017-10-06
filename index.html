@@ -202,10 +202,15 @@
         <div class="col-lg-8 mx-auto">
           <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
           <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
-          <form action="https://formspree.io/hab13a@acu.edu" method="POST">
-            <input type="text" name="name">
-            <input type="email" name="_replyto">
-            <input type="submit" value="Send">
+          <form action="https://formspree.io/hab13a@acu.edu" method="POST" id="contactForm">
+            <div class="control-group">
+              <div class="form-group floating-label-form-group controls">
+                <label>Name</label>
+                <input type="text" name="name">
+              </div>
+              <input type="email" name="_replyto">
+              <input type="submit" value="Send">
+            </div>
           </form>
           <!-- <form name="sentMessage" id="contactForm" method="POST" action="https://formspree.io/hab13a@acu.edu">
             <div class="control-group">
