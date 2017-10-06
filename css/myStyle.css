@@ -47,7 +47,11 @@ footer .footer-below{
     background: #262228}
 #sendMessageButton{
     background: #8EAEBD;
-    border-color: #8EAEBD;}
+    border-color: #8EAEBD;
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;}
 #portfolio .portfolio-item .portfolio-link .caption {
     background: #2C3E50;}
 #portfolio .portfolio-item .portfolio-link .caption .caption-content {
