@@ -45,6 +45,8 @@ footer .footer-above{
     background: #8EAEBD}
 footer .footer-below{
     background: #262228}
+#border{
+  border-bottom: 1px solid #eeeeee; }
 #sendMessageButton{
     background: #8EAEBD;
     border-color: #8EAEBD;
