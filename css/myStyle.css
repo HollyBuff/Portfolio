@@ -80,3 +80,9 @@ footer .footer-below{
 #myImage {
     width: 250px;
 }
+
+header.masthead img {
+    display: block;
+    margin: 0 auto 20px;
+    width: 256px;
+}
